@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Zhichai 👋
 
-<!--
-**zhichai-home/zhichai-home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a research-oriented student with a background in **Psychology**, currently transitioning into **Computational Neuroscience**. 
 
-Here are some ideas to get you started:
+### 🎯 Research Interests
+- **Predictive Brain**: Investigating how the brain anticipates and processes future events.
+- **Attention & Prediction**: Exploring precision-weighting and gain control in neural hierarchies.
+- **Sensorimotor Control**: Studying action and temporal prediction.
+- **Methodology**: EEG, fMRI, and Mathematical Modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Learning Journey
+- **Current Focus**: Mastering neural data analysis with **Python (MNE, NumPy)**.
+- **Technical Skills**: Python (Improving), Data Visualization.
+- **Languages**: English (Professional/Academic), German (Beginner).
+
+### 📧 Get in Touch
+- Open to discussing **Predictive Coding** and **Cognitive Neuroscience**.
+- Looking for PhD opportunities and research collaborations.
